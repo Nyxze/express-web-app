@@ -1,1 +1,5 @@
-Example of web application for registering user using express and pug
+Example of web application for registering user.
+
+-Express
+-MySQL
+-Pug
